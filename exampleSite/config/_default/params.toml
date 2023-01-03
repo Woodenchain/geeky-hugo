@@ -21,7 +21,7 @@ search = true
 theme_copyright = true
 [advertisement]
 image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+link = "https://gethugothemes.co/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Know About Me"
